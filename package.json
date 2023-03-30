@@ -12,7 +12,9 @@
     "element-plus": "^2.3.1",
     "node-sass": "^8.0.0",
     "sass-loader": "^13.2.2",
-    "vue": "^3.2.13"
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.13",
+    "vuestic-ui": "^1.6.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
